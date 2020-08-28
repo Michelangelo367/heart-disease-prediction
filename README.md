@@ -29,16 +29,16 @@ B)	Data Visualization:
     c.	Visualizing correlation between all features using a heat map  
     
 C)	Logistic Regression:  
-    a.	Building a simple logistic regression model   
-        i.	Dividing the dataset in 70:30 ratio  
-        ii.	Building the model on train set and predict the values on test set  
-        iii. Building the confusion matrix and get the accu	racy score   
+    a.	Built a simple logistic regression model   
+        i.	Divided the dataset in 70:30 ratio  
+        ii.	Built the model on train set and predict the values on test set  
+        iii. Built the confusion matrix and get the accu	racy score   
 
 D)	Decision Tree:  
-    a.	Buiding a decision tree model  
-        i.	Dividing the dataset in 70:30 ratio  
-        ii.	Building the model on train set and predict the values on test set  
-        iii.Building the confusion matrix and calculate the accuracy  
+    a.	Built a decision tree model  
+        i.	Divided the dataset in 70:30 ratio  
+        ii.	Built the model on train set and predict the values on test set  
+        iii.Built the confusion matrix and calculate the accuracy  
         iv.	Visualizing the decision tree using the graphviz package  
 
 
@@ -46,12 +46,12 @@ E)	Random Forest:
     a.	Built a Random Forest model  
         i.	Divided the dataset in 70:30 ratio  
         ii.	Built the model on train set and predict the values on test set  
-        iii.	Built the confusion matrix and calculate the accuracy  
-        iv.	Visualized the model using the graphviz package  
+        iii.Built the confusion matrix and calculate the accuracy  
+        iv.	Visualizing the model using the graphviz package  
 
 F)	Selecting the best model:  
-    a.	Printing the confusion matrix of all classifiers  
-    b.	Printing the classification report of all classifiers  
+    a.	Printed the confusion matrix of all classifiers  
+    b.	Printed the classification report of all classifiers  
     c.	Calculated Recall Precision and F1 score of all the models  
     d.	Visualized confusion matrix using heatmaps and Recall Precision and F1 score of all the models using bar graphs  
     e.	Selected the best model based on the best accuracies  
